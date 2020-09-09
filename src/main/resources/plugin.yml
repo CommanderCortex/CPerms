@@ -1,0 +1,15 @@
+name: CPerms
+version: ${project.version}
+main: cortex.perms.Perms
+api-version: 1.16
+authors: [CommanderCortex]
+description: Perms Plugin
+commands:
+  setrank:
+    description: Hello
+  clearchat:
+    description: Clears it
+  gm:
+    description: quick gm
+  punish:
+    description: kick and ban for built in perms
